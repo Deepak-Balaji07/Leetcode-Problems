@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0050-powx-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 ## Recursion
 |  |
 | ------- |
