@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3194-find-words-containing-character](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 ## Sorting
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
