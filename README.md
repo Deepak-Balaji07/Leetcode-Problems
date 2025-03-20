@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1791-richest-customer-wealth](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -83,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
