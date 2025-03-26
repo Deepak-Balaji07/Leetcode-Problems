@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1791-richest-customer-wealth](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0050-powx-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
