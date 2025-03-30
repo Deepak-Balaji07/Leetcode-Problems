@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
