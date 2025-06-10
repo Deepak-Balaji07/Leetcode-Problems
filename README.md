@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3312-number-of-changing-keys) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Queue
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
 | ------- |
