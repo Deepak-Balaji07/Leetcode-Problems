@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 <!---LeetCode Topics End-->
