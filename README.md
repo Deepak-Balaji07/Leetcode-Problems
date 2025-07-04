@@ -183,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+## Stack
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
