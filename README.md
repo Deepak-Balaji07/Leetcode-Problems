@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
