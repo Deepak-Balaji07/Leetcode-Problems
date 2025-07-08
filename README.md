@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0038-count-and-say) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
