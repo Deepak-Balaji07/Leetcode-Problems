@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Stack
 |  |
