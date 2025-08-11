@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [0886-score-of-parentheses](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0886-score-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0886-score-of-parentheses](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0886-score-of-parentheses) |
 ## Tree
 |  |
 | ------- |
