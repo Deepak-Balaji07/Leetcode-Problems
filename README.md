@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0886-score-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1764-maximum-repeating-substring](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1764-maximum-repeating-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1764-maximum-repeating-substring](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1764-maximum-repeating-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [1764-maximum-repeating-substring](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1764-maximum-repeating-substring) |
 ## Enumeration
 |  |
 | ------- |
