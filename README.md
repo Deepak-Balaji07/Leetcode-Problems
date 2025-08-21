@@ -263,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
