@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Counting
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
