@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3312-number-of-changing-keys) |
+| [3462-vowels-game-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Queue
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
+| [3462-vowels-game-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -272,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0180-consecutive-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
