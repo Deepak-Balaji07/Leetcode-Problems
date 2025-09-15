@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0886-score-of-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1764-maximum-repeating-substring](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1764-maximum-repeating-substring) |
