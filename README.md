@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1764-maximum-repeating-substring](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1764-maximum-repeating-substring) |
 ## Prefix Sum
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 ## Sliding Window
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0886-score-of-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Tree
 |  |
 | ------- |
@@ -287,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
