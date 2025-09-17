@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
