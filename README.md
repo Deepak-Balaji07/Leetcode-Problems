@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0506-relative-ranks) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Bucket Sort
 |  |
 | ------- |
