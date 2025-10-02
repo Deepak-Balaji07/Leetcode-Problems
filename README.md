@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0941-sort-array-by-parity](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0941-sort-array-by-parity](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0941-sort-array-by-parity](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
