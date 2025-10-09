@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
