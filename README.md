@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0890-lemonade-change](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Stack
