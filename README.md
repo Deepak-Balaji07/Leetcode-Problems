@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepak-Balaji07/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
